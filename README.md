@@ -1,4 +1,4 @@
-- Basic template engine with implemented with Typescript
+- Basic template engine implemented with Typescript
 
 - You need to pass a string and an object with replacements
 - Example:
